@@ -1,4 +1,4 @@
-package com.girija_project1;
+package com.dinesh_project1;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
